@@ -65,29 +65,25 @@ For more information on the importance of a professional README for your reposit
 
 # 📖 [Hello Microverse] <a name="Hello Microverse"></a>
 
-> Describe your project in 1 or 2 sentences.
-> Module 1 Day 2 Project.
-> **[Hello Microverse]** is a...
+**[Hello Microverse]** is a first project in Microverse in which we have a chance to work with linter.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-> Tech stack we use is only HTML and CSS.
+Tech stack we use is only HTML and CSS.
 
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://reactjs.org/">HTML</a></li>
   </ul>
 </details>
 
 <details>
   <summary>Server</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://expressjs.com/">CSS</a></li>
   </ul>
 </details>
 
